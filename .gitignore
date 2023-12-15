@@ -6,3 +6,4 @@ db.sqlite3
 __pycache__/
 /handlers/__pycache__/
 /database/__pycache__/
+media

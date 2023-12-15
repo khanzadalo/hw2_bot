@@ -1,4 +1,5 @@
 START_MENU_TEXT = "Hello {user}\n" \
-                  "This is my home work\n" \
-                  "U can start Questionnaire by clicking " \
-                  "Start Questionnaire button"
+                  "I am a harsh bot moderator\n"
+
+START_RULES_TEXT = "The rules are very simple, you get yellow cards for the " \
+                  " 2 bad words, and red cards for the third. And I'll ban you. "
